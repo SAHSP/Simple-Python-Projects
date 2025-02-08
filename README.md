@@ -13,8 +13,8 @@ Welcome to my **Python Games** repository! This repo contains simple, fun, and i
 |---------------------------------|---------------------------------------------------------------------------------|
 | [Rock, Paper, Scissors](rock-paper-scissors) | A classic game where you compete against the computer to score points! 🪨📄✂️ |
 | [Number Guessing Game](number-guessing-game) | Guess a random number between 1 and 100 within 5 attempts. 🔢🎯 |
-| [Coin Toss Game](./Coin_Toss) | A simple game where you guess the outcome of a coin flip: Heads or Tails. |
-| [Tic-Tac-Toe](./Tic_Tac_Toe) | A classic two-player game where players take turns marking a 3x3 grid. Get three in a row to win! |
+| [Coin Toss Game](./Coin%20Toss) | A simple game where you guess the outcome of a coin flip: Heads or Tails. |
+| [Tic-Tac-Toe](./Tic%20Tac%20Toe) | A classic two-player game where players take turns marking a 3x3 grid. Get three in a row to win! |
 
 
 ---

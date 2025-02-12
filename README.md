@@ -15,6 +15,8 @@ Welcome to my **Python Games** repository! This repo contains simple, fun, and i
 | [Number Guessing Game](number-guessing-game) | Guess a random number between 1 and 100 within 5 attempts. 🔢🎯 |
 | [Coin Toss Game](./Coin%20Toss) | A simple game where you guess the outcome of a coin flip: Heads or Tails. |
 | [Tic-Tac-Toe](./Tic%20Tac%20Toe) | A classic two-player game where players take turns marking a 3x3 grid. Get three in a row to win! |
+| [Scramble Word](Scramble%20Word) | Guess the correct word from its scrambled letters in this fun word challenge game. |
+
 
 
 ---
